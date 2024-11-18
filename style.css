@@ -445,3 +445,36 @@ h1 {
   font-size: 32px;
   font-weight: bold;
 }
+.learn-more {
+  display: flex;
+  justify-content: center;
+  gap: 150px;
+}
+.toys-list li {
+  font-size: 24px;
+}
+.toys-list h4 {
+  font-weight: bold;
+  font-size: 34px;
+  margin-bottom: 20px;
+}
+
+.book-iccon {
+  width: 15px;
+}
+.book-icon {
+  display: flex;
+  gap: 16px;
+}
+.book-iccon {
+  fill: white;
+  width: 50px;
+}
+.list ul li:hover {
+  color: #1a3f47;
+  font-weight: bold;
+}
+.list ul li {
+  color: #4d6a70;
+  cursor: pointer;
+}
